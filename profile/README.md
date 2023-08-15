@@ -5,7 +5,7 @@
 Welcome to Elestrals! We are a company building a Trading Card Game from scratch! This Organization is the main store for the Elestrals Codebase, but public repositories may show up eventually!
 
 <p align="left">
-<a href="mailto:elestrals@gmail.com" style="text-decoration:none">
+<a href="mailto:elestrals@elestrals.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
   <a href="https://discord.gg/elestrals" style="text-decoration:none">
