@@ -1,4 +1,4 @@
-![Twitter Banner (1)](https://pbs.twimg.com/profile_banners/1492873932235489281/1674758101/1500x500)
+![Twitter Banner (1)](https://pbs.twimg.com/profile_banners/1492873932235489281/1690821198/1500x500)
 
 # **Elestrals**
 
